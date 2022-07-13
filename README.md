@@ -19,10 +19,6 @@ Aartificial Intelligence Course Project
       </ul>
     </li>
     <li><a href="#how-to-use">How to use</a></li>
-    <ul>
-        <li><a href="#iiit-allahabad-virtual-museum-outside-look">Museum outer look</a></li>
-        <li><a href="#interactions-of-artifacts-with-avtar">Interfaction with artifacts by Virtual Avtar</a></li>
-      </ul>
      <li><a href="#demo-video">Demo Video</a></li>
      <li><a href="#team-members">Team Members</a></li>
      <li><a href="#important-project-links">Important Project Links</a></li>
