@@ -158,7 +158,7 @@ Entered details for senior citizen user seeking for fit body from home trainings
 <hr>
 
 ## Demo Video
-[![Watch the video]()](https://www.youtube.com/watch?v=2biJNqQ9WkU)
+[![Watch the video](demo/4.png)](https://www.youtube.com/watch?v=2biJNqQ9WkU)
 
 <hr>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2biJNqQ9WkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
