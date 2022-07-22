@@ -1,0 +1,42 @@
+RESTAURANT NAME,ADDRESS,CITY,CATEGORY,CUISINE,PRICE,RATING
+Pushups,5,male,slim|heavy ,16-25yrs|26-45yrs,under-50kg,1
+Pushups,12,male,slim|heavy ,16-25yrs|26-45yrs,under-50kg,2
+Pushups,25,male,slim|heavy ,16-25yrs|26-45yrs,under-50kg,3
+Running,1km,male,slim|heavy,16-25yrs|46-70yrs,above-76kg,3
+Squats,30x3_sets,male|female,heavy,16-25yrs,under-50kg,3
+core_training,30 min,male|female,heavy,16-25yrs,under-50kg,2
+running,3 KMs,male|female,heavy,16-25yrs,under-50kg,1
+Bench_Press,15x3_sets,male,heavy,16-25yrs,under-50kg,3
+Dancing,20 minutes,female|male,slim,16-25yrs|26-45yrs,under-50kg|51-75kg|above-76kg,2
+Arm_Cycles,50x2 sets,female|male,slim,16-25yrs|26-45yrs,under-50kg|51-75kg|above-76kg,3
+Jumping_lungs,30x2 sets,female|male,slim,16-25yrs|26-45yrs,under-50kg|51-75kg|above-76kg,3
+Stair_ups_and_down,200 Stairs,female|male,slim,16-25yrs|26-45yrs,under-50kg|51-75kg|above-76kg,3
+Stair_ups_and_down,150 Stairs,female|male,slim,16-25yrs|26-45yrs,under-50kg|51-75kg|above-76kg,2
+Stair_ups_and_down,80 Stairs,female|male,slim,16-25yrs|26-45yrs,under-50kg|51-75kg|above-76kg,1
+Second_plank,1X2 minutes,female|male,slim,16-25yrs|26-45yrs,under-50kg|51-75kg|above-76kg,3
+Bench_press,5x3-sets,male,heavy,26-45yrs|46-70yrs,51-75kg,1
+walking,10 km,female|male,slim,46-70yrs|26-45yrs,51-75kg,2
+Crunch,30x3_sets,male|female,slim,16-25yrs,51-75kg,3
+Bicycle_crunches,30x2 Sets,female,slim,16-25yrs,51-75kg,2
+Bicycle_crunches,50x2 Sets,female,slim,16-25yrs,51-75kg,3
+Bicycle_crunches,20x2 Sets,female,slim,16-25yrs,51-75kg,1
+Dumble_rose,15x3_sets,female,slim,46-70yrs|26-45yrs,above-76kg,2
+Cycling,2 KMs,male|female,slim|heavy,46-70yrs|16-25yrs,51-75kg,2
+Plank,30x3 seconds,male|female,slim,46-70yrs|26-45yrs,51-75kg,1
+Plank,2minx3 seconds,male|female,slim,46-70yrs|26-45yrs,51-75kg,2
+Plank,5minx3 seconds,male|female,slim,46-70yrs|26-45yrs,51-75kg,3
+Sit_and_Ups,30x3 sets,male|female,slim|heavy,16-25yrs|46-70yrs|26-45yrs,under-50kg,3
+Leg_lifts,5x3 minutes,female,slim|heavy,16-25yrs|26-45yrs|46-70yrs,under-50kg|51-75kg|above-76kg,2
+Triceps,3x3 sets,female,slim|heavy,16-25yrs|26-45yrs|46-70yrs,under-50kg|51-75kg|above-76kg,2
+chest_press,10x3 sets,female,slim,16-25yrs|26-45yrs|46-70yrs,under-50kg|51-75kg|above-76kg,2
+Toe_bent,5x3 sets,female,slim,16-25yrs|26-45yrs|46-70yrs,under-50kg|51-75kg|above-76kg,2
+Leg_lifts,15x3 minutes,male,slim,16-25yrs|26-45yrs|46-70yrs,under-50kg|51-75kg|above-76kg,2
+Triceps,13x3 sets,male,slim,16-25yrs|26-45yrs|46-70yrs,under-50kg|51-75kg|above-76kg,1
+chest_press,20x3 sets,male,slim,16-25yrs|26-45yrs|46-70yrs,under-50kg|51-75kg|above-76kg,3
+Toe_bent,25x3 sets,male,slim,16-25yrs|26-45yrs|46-70yrs,under-50kg|51-75kg|above-76kg,1
+Pulps,8x3 sets,male,slim,16-25yrs|26-45yrs|46-70yrs,under-50kg|51-75kg|above-76kg,3
+chest_workout,25x3 sets,male|female,heavy,16-25yrs|26-45yrs|46-70yrs,under-50kg|51-75kg|above-76kg,2
+Mountain_climbing,10x3 sets,female|male,heavy,16-25yrs|26-45yrs|46-70yrs,under-50kg|51-75kg|above-76kg,1
+Mountain_climbing,15x3 sets,female|male,heavy,16-25yrs|26-45yrs|46-70yrs,under-50kg|51-75kg|above-76kg,2
+Mountain_climbing,25x3 sets,female|male,heavy,16-25yrs|26-45yrs|46-70yrs,under-50kg|51-75kg|above-76kg,3
+Invalid,5x3 sets,female,slim,16-25yrs|26-45yrs|46-70yrs,under-50kg|51-75kg|above-76kg,2
