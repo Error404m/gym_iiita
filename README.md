@@ -42,6 +42,8 @@ Automotive Gym Recemendor system is an AI expert system which will get personali
 <ul>
    <li>Clips</li>
    <li>Philips</li>
+   <li>IntelIJ</li>
+   <li>JDK</li>
 </ul>
 
 <hr>
@@ -56,6 +58,8 @@ To get a local copy up and running follow these simple example steps.
 
 This is an example of how to list things you need to use the software and how to install them.
   * Software: Clips
+  * Software: IntelliJ
+  * JDK
   * Text editor (VS code, notepad etc....)
 
  ### Installation
@@ -81,7 +85,7 @@ This is an example of how to list things you need to use the software and how to
 <hr>
 
 <!-- Usage -->
-### How to use
+### How to use clips code
 
 1. Step 1 
    ```sh
@@ -123,7 +127,7 @@ This is an example of how to list things you need to use the software and how to
    
 9. Step 9
    ```sh
-   Enter the wight.
+   Enter the weight.
    ```
    
 10. Step 10
@@ -153,6 +157,32 @@ Entered details for senior citizen user seeking for fit body from home trainings
 <!-- Usage -->
 <hr>
 
+### How to use IntelIJ GUI 
+
+1. Step 1 
+   ```sh
+   clone https://github.com/Error404m/gym_iiita/
+   ```
+2. Step 2
+   ```sh
+    cd code/gui/
+   ```
+3. Step 3
+   ```sh
+   Open IntelIJ software.
+   ```
+4. Step 4
+   ```sh
+    Go to file -> Open -> Open new project -> Select GUI folder.
+   ```
+5. Step 5 
+   ```sh
+   Click on Build .
+   ```
+6. Step 6
+   ```sh
+    Tap on run code. Here u go:)
+   ```
 ## Demo Video
 [![Watch the video](demo/4.png)](https://www.youtube.com/watch?v=2biJNqQ9WkU)
 
