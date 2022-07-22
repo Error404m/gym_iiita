@@ -187,15 +187,12 @@ Entered details for senior citizen user seeking for fit body from home trainings
 <br><br> <img src="demo/3.png"  height="400" />
 
 ### GUI Home Screenshot 4
-Entered details for senior citizen user seeking for fit body from home trainings .
 <br><br> <img src="demo/11.png"  height="400" />
 
 ### GUI Demo Screenshot 5
-Entered details for senior citizen user seeking for fit body from home trainings .
 <br><br> <img src="demo/22.png"  height="400" />
 
 ### GUI Demo Screenshot 6
-Entered details for senior citizen user seeking for fit body from home trainings .
 <br><br> <img src="demo/33.png"  height="400" />
 
 ## Demo Video
