@@ -84,7 +84,7 @@ This is an example of how to list things you need to use the software and how to
 
 <hr>
 
-<!-- Usage -->
+<!-- Usage2 -->
 ### How to use clips code
 
 1. Step 1 
@@ -142,17 +142,6 @@ This is an example of how to list things you need to use the software and how to
    
 12. This way you can get your personalised gym traning recomendation .
    
-### Demo Screenshot 1
-Entered details for young user seeking for slimming out his body from Gym trainings .
-<br><br> <img src="demo/1.png"  height="400" />
-
-### Demo Screenshot 2
-Entered details for small boy seeking for fit body from home trainings .
-<br><br> <img src="demo/2.png"  height="400" />
-
-### Demo Screenshot 3
-Entered details for senior citizen user seeking for fit body from home trainings .
-<br><br> <img src="demo/3.png"  height="400" />
 
 <!-- Usage -->
 <hr>
@@ -183,6 +172,20 @@ Entered details for senior citizen user seeking for fit body from home trainings
    ```sh
     Tap on run code. Here u go:)
    ```
+   
+   
+### Demo Screenshot 1
+Entered details for young user seeking for slimming out his body from Gym trainings .
+<br><br> <img src="demo/1.png"  height="400" />
+
+### Demo Screenshot 2
+Entered details for small boy seeking for fit body from home trainings .
+<br><br> <img src="demo/2.png"  height="400" />
+
+### Demo Screenshot 3
+Entered details for senior citizen user seeking for fit body from home trainings .
+<br><br> <img src="demo/3.png"  height="400" />
+
 ## Demo Video
 [![Watch the video](demo/4.png)](https://www.youtube.com/watch?v=2biJNqQ9WkU)
 
